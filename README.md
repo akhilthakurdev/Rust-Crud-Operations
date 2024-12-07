@@ -4,6 +4,8 @@ This is the backend service for the **CRUD Operations** project, providing a RES
 
 ---
 
+![image](https://github.com/user-attachments/assets/823d41f0-90c2-4290-89a4-d305f35049fd)
+
 ## 📋 API Endpoints
 
 ### Base URL: `http://127.0.0.1:8080`
@@ -31,6 +33,9 @@ This is the backend service for the **CRUD Operations** project, providing a RES
 
 ### Prerequisites
 - Install **Rust** and **Cargo**:
+
+
+
 
 
 
