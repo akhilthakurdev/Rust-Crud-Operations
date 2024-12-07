@@ -31,5 +31,37 @@ This is the backend service for the **CRUD Operations** project, providing a RES
 
 ### Prerequisites
 - Install **Rust** and **Cargo**:
-  ```bash
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+
+
+
+
+# 🌐 Frontend - React Vite
+
+The frontend application for the **CRUD Operations** project provides a sleek, responsive UI to interact with the backend API. Users can easily create, view, update, and delete items through an intuitive interface.
+
+---
+
+## 📸 Features
+
+- **Vite.js** for lightning-fast development and builds.
+- Supports CRUD (Create, Read, Update, Delete) operations.
+- Real-time interaction with the backend API.
+- Responsive design for all devices.
+
+---
+
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+- Install **Node.js** and **npm**:
+  - [Download Node.js](https://nodejs.org/)
+
+---
+
+
+
+
+
+
